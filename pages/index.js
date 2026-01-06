@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Tudo na vida passa! Até a uva passa!</h1>
+    return <h1>Trocando o texto aqui.</h1>
 }
 
 export default Home;

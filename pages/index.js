@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Trocando o texto aqui.</h1>
+    return <h1>Fazendo um update no texto.</h1>
 }
 
 export default Home;
